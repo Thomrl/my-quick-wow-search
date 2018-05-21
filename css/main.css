@@ -1,0 +1,22 @@
+body {
+    background-image: url('https://3dnews.ru/assets/external/illustrations/2016/08/31/938663/world-of-warcraft-legion-release-date.jpg');
+    background-color: #c5cfe0;
+    color: black;
+    margin-top:1rem;
+}
+
+.container { 
+    min-width:88%;
+    padding: 20px 15px;
+    background-color: rgba(197, 207, 224, 0.9);
+}
+
+#input {
+    width:300px;
+}
+
+#action {
+    width: 178px;
+}
+
+a { font-size: 1.5rem; }
